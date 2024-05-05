@@ -1,4 +1,4 @@
-# 🚀 Memory
+# 💡 Memory
 
 It is a memory game where progress is saved with Java.
 
