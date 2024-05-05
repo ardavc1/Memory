@@ -5,7 +5,7 @@ It is a memory game where progress is saved with Java.
 | | |
 |-|-|
 |👨‍💻 Developer|        🤵 Arda Avcı|
-|✨ Last Update| 📅 10.09.2023 |
+|✨ Last Update| 📅 05.09.2023 |
 
 
 ## 🪪  License
