@@ -1,6 +1,6 @@
 # 🚀 Memory
 
-It is a guessing game with Java.
+It is a memory game where progress is saved with Java.
 
 | | |
 |-|-|
